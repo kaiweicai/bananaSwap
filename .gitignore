@@ -1,0 +1,20 @@
+node_modules
+.env
+.idea
+.DS_Store
+contracts/.deps
+
+#Hardhat files
+cache
+artifacts
+.openzeppelin
+
+
+toFrontend
+
+package-lock.json
+scripts/setting.ts
+
+#Solidity-coverage files
+coverage.json
+coverage
